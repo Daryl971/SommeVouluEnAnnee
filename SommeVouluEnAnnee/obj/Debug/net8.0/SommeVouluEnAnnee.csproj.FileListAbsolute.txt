@@ -1,0 +1,14 @@
+C:\Users\dadou\RiderProjects\SommeVouluEnAnnee\SommeVouluEnAnnee\bin\Debug\net8.0\SommeVouluEnAnnee.exe
+C:\Users\dadou\RiderProjects\SommeVouluEnAnnee\SommeVouluEnAnnee\bin\Debug\net8.0\SommeVouluEnAnnee.deps.json
+C:\Users\dadou\RiderProjects\SommeVouluEnAnnee\SommeVouluEnAnnee\bin\Debug\net8.0\SommeVouluEnAnnee.runtimeconfig.json
+C:\Users\dadou\RiderProjects\SommeVouluEnAnnee\SommeVouluEnAnnee\bin\Debug\net8.0\SommeVouluEnAnnee.dll
+C:\Users\dadou\RiderProjects\SommeVouluEnAnnee\SommeVouluEnAnnee\bin\Debug\net8.0\SommeVouluEnAnnee.pdb
+C:\Users\dadou\RiderProjects\SommeVouluEnAnnee\SommeVouluEnAnnee\obj\Debug\net8.0\SommeVouluEnAnnee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dadou\RiderProjects\SommeVouluEnAnnee\SommeVouluEnAnnee\obj\Debug\net8.0\SommeVouluEnAnnee.AssemblyInfoInputs.cache
+C:\Users\dadou\RiderProjects\SommeVouluEnAnnee\SommeVouluEnAnnee\obj\Debug\net8.0\SommeVouluEnAnnee.AssemblyInfo.cs
+C:\Users\dadou\RiderProjects\SommeVouluEnAnnee\SommeVouluEnAnnee\obj\Debug\net8.0\SommeVouluEnAnnee.csproj.CoreCompileInputs.cache
+C:\Users\dadou\RiderProjects\SommeVouluEnAnnee\SommeVouluEnAnnee\obj\Debug\net8.0\SommeVouluEnAnnee.dll
+C:\Users\dadou\RiderProjects\SommeVouluEnAnnee\SommeVouluEnAnnee\obj\Debug\net8.0\refint\SommeVouluEnAnnee.dll
+C:\Users\dadou\RiderProjects\SommeVouluEnAnnee\SommeVouluEnAnnee\obj\Debug\net8.0\SommeVouluEnAnnee.pdb
+C:\Users\dadou\RiderProjects\SommeVouluEnAnnee\SommeVouluEnAnnee\obj\Debug\net8.0\SommeVouluEnAnnee.genruntimeconfig.cache
+C:\Users\dadou\RiderProjects\SommeVouluEnAnnee\SommeVouluEnAnnee\obj\Debug\net8.0\ref\SommeVouluEnAnnee.dll
